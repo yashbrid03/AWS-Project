@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "paths": {
+    "/blogs": {
+      "name": "/blogs",
+      "lambdaFunction": "blogsfunction",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    },
+    "/indi": {
+      "name": "/indi",
+      "lambdaFunction": "indi",
+      "permissions": {
+        "setting": "private",
+        "auth": [
+          "create",
+          "read",
+          "update",
+          "delete"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-blogcc-dev-182551-authRole",
+      "UnauthRoleArn": "arn:aws:iam::403881158605:role/amplify-blogcc-dev-182551-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::403881158605:role/amplify-blogcc-dev-182551-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-blogcc-dev-182551-deployment",
+      "UnauthRoleName": "amplify-blogcc-dev-182551-unauthRole",
+      "StackName": "amplify-blogcc-dev-182551",
+      "StackId": "arn:aws:cloudformation:ap-south-1:403881158605:stack/amplify-blogcc-dev-182551/020a65e0-e5c4-11ed-a327-06c530588cac",
+      "AmplifyAppId": "d25edo557cu9e2",
+      "APIGatewayAuthURL": "https://s3.amazonaws.com/amplify-blogcc-dev-182551-deployment/amplify-cfn-templates/api/APIGatewayAuthStack.json"
+    },
+    "categories": {
+      "auth": {
+        "blogcc1d1c2208": {}
+      },
+      "function": {
+        "blogsfunction": {
+          "deploymentBucketName": "amplify-blogcc-dev-182551-deployment",
+          "s3Key": "amplify-builds/blogsfunction-41444535355371443650-build.zip"
+        },
+        "indi": {
+          "deploymentBucketName": "amplify-blogcc-dev-182551-deployment",
+          "s3Key": "amplify-builds/indi-6e446435633154587130-build.zip"
+        }
+      },
+      "storage": {
+        "blogdb": {}
+      },
+      "api": {
+        "blogapi": {}
+      }
+    }
+  }
+}
