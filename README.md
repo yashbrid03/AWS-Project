@@ -1,5 +1,5 @@
 # Contents
-### [Architecture](#architecture)<br>
+### [Architecture](#architecture-1)<br>
 ### [Snippets](#snippets)
 
 # Architecture
