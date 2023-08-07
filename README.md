@@ -1,3 +1,11 @@
+# Contents
+### [Architecture](#architecture)<br>
+### [Snippets](#snippets)
+
+# Architecture
+![AWS diagram](https://github.com/yashbrid03/AWS-Project/assets/65955929/63dd4c79-64ef-471d-befd-7c681af7f813)
+
+
 # Snippets
 ![image](https://github.com/yashbrid03/AWS-Project/assets/65955929/bf3ca5f0-81d9-44e6-88bb-59e7cb0baa47)
 ![image](https://github.com/yashbrid03/AWS-Project/assets/65955929/9007771b-3d05-4b9f-aa41-a35f98d2832d)
